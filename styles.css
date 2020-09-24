@@ -1,0 +1,89 @@
+h1{
+  font-weight: lighter;
+  text-align: center;
+}
+h6{
+  font-weight: lighter;
+  margin: 10px 10px;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+.body{
+  text-align: center;
+}
+/* Heading Section */
+#heading{
+  margin-bottom: 2.5rem;
+}
+.navigation{
+  box-shadow: 1px 1px 10px #888888;
+}
+.navbar-brand
+{
+  margin: 0 auto;
+}
+.logo{
+  font-size: 5rem;
+  right:50px;
+
+}
+/* Hr-drvier section */
+.hrdivider {
+  position: relative;
+  top: 75px;
+  width: 100%;
+  text-align: center;
+}
+
+.hrdivider span {
+  position: absolute;
+  bottom: 50px;
+  background: #fff;
+  padding: 0 20px;
+  font-weight: bold;
+  font-size: 16px;
+}
+/* Signup Section */
+.signup{
+  margin: 100px 30px 10px;
+  padding-bottom: 40px;
+}
+.signup-input{
+  margin: 5px auto;
+ width: 90%;
+}
+.signup-button{
+
+  width: 100%;
+  margin: 5px auto;
+}
+/* Login Section */
+.login{
+  color: #888888;
+ text-align: center;
+}
+.social-accounts{
+  box-shadow:  1px 1px 15px  #888888;
+  margin:0 auto 1rem;
+  width: 55%;
+  padding-bottom: 2rem;
+}
+.signup-text{
+  font-weight: bold;
+  margin-bottom: 10%;
+}
+.login-google{
+  margin-left:  45px;
+  border: 20px;
+
+width: 70%;
+ float:left;
+}
+.login-facebook{
+margin-right: 85px;
+width : 70%;
+border-right:  20px;
+float: left;
+}
